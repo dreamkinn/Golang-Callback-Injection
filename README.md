@@ -62,6 +62,7 @@ Many more are presented in the pentester's promiscuous notebook ([https://ppn.sn
 ### References
 - [http://ropgadget.com/posts/abusing_win_functions.html](http://ropgadget.com/posts/abusing_win_functions.html)
 - [https://github.com/Ne0nd0g/go-shellcode](https://github.com/Ne0nd0g/go-shellcode)
+- [https://github.com/aahmad097/AlternativeShellcodeExec](https://github.com/aahmad097/AlternativeShellcodeExec)
 - [https://github.com/ChaitanyaHaritash/Callback_Shellcode_Injection](https://github.com/ChaitanyaHaritash/Callback_Shellcode_Injection)
 - [https://osandamalith.com/2021/04/01/executing-shellcode-via-callbacks/](https://osandamalith.com/2021/04/01/executing-shellcode-via-callbacks/)
 
