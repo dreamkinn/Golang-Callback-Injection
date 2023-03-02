@@ -4,7 +4,7 @@ This repository presents a collection of already well-documented injection primi
 
 ## Build
 ```
-GOOS=windows go build -o DrawState.exe cmd/DrawStateW.go
+GOOS=windows go build -o DrawState.exe callbacks/DrawStateW.go
 
 # Additional flags for opsec considerations
 -ldflags -H=windowsgui  (do not pop any window)
