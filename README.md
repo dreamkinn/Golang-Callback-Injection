@@ -1,4 +1,4 @@
-# Golang-Injection-Techniques
+# Golang-Callback-Injection
 ## Disclaimer
 This repository presents a collection of already well-documented injection primitives, adapted to Go. The PoCs are not meant to evade competent AVs out-of-the-box as they have been around for quite some time now, but could be combined along with other techniques.
 
