@@ -69,3 +69,8 @@ Many more are presented in the pentester's promiscuous notebook ([https://ppn.sn
 ### Relevant resources
 - [https://www.pinvoke.net](https://www.pinvoke.net)
 - [https://ppn.snovvcrash.rocks/red-team/maldev/code-injection](https://ppn.snovvcrash.rocks/red-team/maldev/code-injection)
+
+
+<meta name="author" content="Dreamkinn">
+<meta name="description" content="Golang-Callback-Injection">
+<meta name="keywords" content="injection, callback, golang, shellcode, technique">
